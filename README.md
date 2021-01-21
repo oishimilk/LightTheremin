@@ -20,3 +20,35 @@
 - `s` 状態表示（デバッグ用）
 - `p` 短い休符
 - `スペース` 出力の切り替え
+
+## システムモデル
+### 概要
+![システムの概要図](assets/system_overview.png)
+
+### コンテキスト図
+![コンテキスト図](assets/system_context.png)
+
+### 要求図
+![要求図](assets/system_demand.png)
+
+### アクティビティ図
+![アクティビティ図](assets/system_activity.png)
+
+### ブロック図
+![ブロック図](assets/system_block.png)
+
+### ユースケース図
+![ユースケース図](assets/system_use_case.png)
+
+## 動作デモ
+### 音 ON/OFF
+準備中です。
+
+### ピッチベンド
+準備中です。
+
+### 半音上げる
+準備中です。
+
+### 演奏
+著作権の関係上、省略しています。
