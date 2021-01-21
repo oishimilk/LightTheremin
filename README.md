@@ -42,13 +42,13 @@
 
 ## 動作デモ
 ### 音 ON/OFF
-準備中です。
+[![ON/OFFの様子](assets/thumb_onoff.png)](https://user-images.githubusercontent.com/56726852/105384195-471d2500-5c55-11eb-8e60-5a66fe335cf0.mp4)
 
 ### ピッチベンド
-準備中です。
+[![ピッチベンドの様子](assets/thumb_bend.png)](https://user-images.githubusercontent.com/56726852/105383622-a464a680-5c54-11eb-9923-b1a15c931828.mp4)
 
 ### 半音上げる
-準備中です。
+[![半音上げの様子](assets/thumb_sharp.png)](https://user-images.githubusercontent.com/56726852/105384406-83e91c00-5c55-11eb-8295-728ae4db4e97.mp4)
 
 ### 演奏
-著作権の関係上、省略しています。
+[![演奏の様子](assets/thumb_play.png)](https://user-images.githubusercontent.com/56726852/105384341-6ddb5b80-5c55-11eb-8fd3-6c0ce8d80286.mp4)
